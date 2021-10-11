@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "249551194730",
+    "firebase_url": "https://listguns-ec2df-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "listguns-ec2df",
+    "storage_bucket": "listguns-ec2df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249551194730:android:f618120bb5f2f3dd9a9813",
+        "android_client_info": {
+          "package_name": "com.example.lab12firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249551194730-fdkpc4p75q86oi8nafmckgvo3jt01bfc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVPO_8OLCaRLl7LsI1Kf14ssa48K38vrg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "249551194730-fdkpc4p75q86oi8nafmckgvo3jt01bfc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
